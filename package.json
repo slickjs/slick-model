@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/reflect-metadata": "0.0.5",
-    "eventsjs": "github:kildevaeld/eventsjs",
+    "eventsjs": "github:kildevaeld/eventsjs"
   },
   "peerDependencies": {
     "reflect-metadata": "^0.1.9"
